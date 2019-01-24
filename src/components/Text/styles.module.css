@@ -1,0 +1,10 @@
+.text {
+  margin: 0;
+  text-align: center;
+}
+.break {
+  word-break: break-all;
+}
+.yellow {
+  color: #fdee81;
+}

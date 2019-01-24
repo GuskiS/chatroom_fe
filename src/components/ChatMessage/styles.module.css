@@ -1,0 +1,11 @@
+.message {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.right {
+  flex-direction: row-reverse;
+}
+.icon {
+  min-width: 64px;
+}

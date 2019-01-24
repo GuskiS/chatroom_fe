@@ -1,0 +1,13 @@
+.content {
+  width: 100vw;
+  min-width: 320px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+  background: url("images/background.jpg");
+  background-repeat: repeat;
+  background-size: 200px;
+}
